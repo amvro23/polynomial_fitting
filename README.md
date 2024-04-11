@@ -30,7 +30,7 @@ Note that the following packages should be installed in your computer: numpy, sc
 If not, you can: 
 1. **Move to the location of the downloaded file**:
 ```
-C:\Users\admin>cd C:\Users\admin\<your_desired_file_location>\polynomial_main\requirements.txt
+cd C:\Users\admin\<your_desired_file_location>\polynomial_main\requirements.txt
 ```
 2. **Simply run the command**:
 ```
