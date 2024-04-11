@@ -28,11 +28,11 @@ To get started with the Polynomial Fitting package, simply follow these steps:
 Note that the following packages should be installed in your compouter: numpy, scipy, matplotlib
 
 If not, you can: 
-1. **Move to the location of the downloaded file:**:
+1. **Move to the location of the downloaded file**:
 ```
 C:\Users\admin>cd C:\Users\admin\<your_desired_file_location>\polynomial_main\requirements.txt
 ```
-2. **Simply run the command:**:
+2. **Simply run the command**:
 ```
 pip install -r requirements.txt
 ```
