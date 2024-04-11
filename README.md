@@ -26,6 +26,7 @@ To get started with the Polynomial Fitting package, simply follow these steps:
    - Obtain optimized coefficients and R-squared value for analysis.
 
 Note that the following packages should be installed in your compouter: numpy, scipy, matplotlib
+
 If not, you can: 
    - Move to the location of the downloaded file: C:\Users\admin>cd C:\Users\admin\<your_desired_file_location>\polynomial_main\requirements.txt
    - Siimply run the command: pip install -r requirements.txt
