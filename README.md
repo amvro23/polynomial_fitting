@@ -25,7 +25,7 @@ To get started with the Polynomial Fitting package, simply follow these steps:
    - Import the values for x (independent variable), y (dependent variable), and the desired degree of polynomial fitting.
    - Obtain optimized coefficients and R-squared value for analysis.
 
-Note that the following packages should be installed in your compouter: numpy, scipy, matplotlib
+Note that the following packages should be installed in your computer: numpy, scipy, matplotlib
 
 If not, you can: 
 1. **Move to the location of the downloaded file**:
