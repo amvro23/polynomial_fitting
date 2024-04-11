@@ -15,7 +15,7 @@ Obtain optimized coefficients and R-squared value for analysis.
 To get started with the Polynomial Fitting package, simply follow these steps:
 
 1. **Download**: 
-   - Download the [ZIP file]([link/to/your/zip/file](https://github.com/amvro23/polynomial_fitting.git)) containing the package.
+   - Download the [ZIP file](https://github.com/amvro23/polynomial_fitting.git)) containing the package.
 
 2. **Extract**: 
    - Extract the downloaded ZIP file to your desired location.
