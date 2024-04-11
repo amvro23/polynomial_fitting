@@ -29,6 +29,7 @@ Note that the following packages should be installed in your compouter: numpy, s
 
 If not, you can: 
    - Move to the location of the downloaded file:
-
-     C:\Users\admin>cd C:\Users\admin\<your_desired_file_location>\polynomial_main\requirements.txt
+```
+C:\Users\admin>cd C:\Users\admin\<your_desired_file_location>\polynomial_main\requirements.txt
+``` 
    - Siimply run the command: pip install -r requirements.txt
