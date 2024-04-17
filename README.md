@@ -23,7 +23,7 @@ To get started with the Polynomial Fitting package, simply follow these steps:
 3. **Run the GUI**:
    - Double-click the provided batch file (`polynomial_calculator.bat`) to run the graphical user interface (GUI).
    - Import the values for x (independent variable), y (dependent variable), and the desired degree of polynomial fitting.
-   - Obtain optimized coefficients and R-squared value for analysis.
+   - Obtain optimized coefficients and R-squared/R-squared-adj value for analysis.
 
 Note that the following packages should be installed in your computer: numpy, scipy, matplotlib
 
