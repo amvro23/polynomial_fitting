@@ -67,9 +67,14 @@ class PolynomialFitApp:
             ss_tot = np.sum((y_values - np.mean(y_values))**2)
             r_squared = 1 - (ss_res / ss_tot)
 
+            # Calculate adjusted R-squared
+            n = len(y_values)
+            k = degree + 1
+            r_squared_adj = 1 - ((1 - r_squared) * (n - 1) / (n - k - 1))
+
             # Display optimized coefficients and R-squared
             coefficients_text = "\n".join([f"a{i} = {coef}" for i, coef in enumerate(popt)])
-            result_text = f"Optimized Coefficients:\n{coefficients_text}\nR2 = {r_squared:.4f}"
+            result_text = f"Optimized Coefficients:\n{coefficients_text}\nR2 = {r_squared:.4f}\nR2_adj = {r_squared_adj:.4f}"
 
             # Plot the fit
             x_test = np.linspace(x_values.min(), x_values.max(), 250)
