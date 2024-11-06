@@ -1,4 +1,4 @@
-🚀 Excited to introduce my latest Python package for polynomial fitting! 📈
+🚀 Here is a simple Python package for polynomial fitting! 📈
 
 🎨 Graphical User Interface (GUI): Say goodbye to complex command-line interfaces! With the intuitive GUI built using tkinter, fitting polynomials to your data has never been easier. Simply input your data, specify the degree of the polynomial, and let the magic happen!
 
